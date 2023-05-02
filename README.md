@@ -1,5 +1,5 @@
 <h1 align="left">whats good my g</h1>
-<h5 align="justify">Hi! 👋 I am Dominic Chen and I am a first year student at Toronto Metropolitan University 👨‍🎓, formerly Ryerson University. I have always enjoyed designing ✒️, and when I discovered coding 💻, it was like a match made in heaven! I am fascinated in the fields of front-end development, web development, ui/ux, and more 👨‍💻! I am also interested in machine learning 🤖, mobile development 📱, and game development 🎮!</h5>
+<h4 align="justify">Hi! 👋 I am Dominic Chen and I am a first year student at Toronto Metropolitan University 👨‍🎓, formerly Ryerson University. I have always enjoyed designing ✒️, and when I discovered coding 💻, it was like a match made in heaven! I am fascinated in the fields of front-end development, web development, ui/ux, and more 👨‍💻! I am also interested in machine learning 🤖, mobile development 📱, and game development 🎮!</h4>
 
 - I am currently learning HTML, CSS, JavaScript
 - Check out my art and photography [**website**](https://335493011.wixsite.com/dominicchen) (not fully updated)
