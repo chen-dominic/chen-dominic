@@ -1,6 +1,10 @@
 <h1 align="left">whats good my g</h1>
 <h5 align="justify">Hi! I am Dominic Chen and I am a first year student at Toronto Metropolitan University, formerly Ryerson University.</h5>
 
+- I am currently learning HTML, CSS, JavaScript
+- Check out my art and photography [**website**](https://335493011.wixsite.com/dominicchen) (not fully updated)
+- Contact me at **dominic.chen630@gmail.com**
+- Click here to open a secret hidden trasure map!
 
 <!--
 **chen-dominic/chen-dominic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
