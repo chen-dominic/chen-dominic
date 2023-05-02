@@ -4,7 +4,8 @@
 - I am currently learning HTML, CSS, JavaScript
 - Check out my art and photography [**website**](https://335493011.wixsite.com/dominicchen) (not fully updated)
 - Contact me at **dominic.chen630@gmail.com**
-- Click here to open a secret hidden [**trasure map**](https://github.com/chen-dominic/chen-dominic/blob/main/Dominic%20Resume%20Tech.pdf)!
+- Click here to open a secret hidden [**treasure map**](https://github.com/chen-dominic/chen-dominic/blob/main/Dominic%20Resume%20Tech.pdf) 🗺️!
+- I enjoy playing games 🕹️, volleyball 🏐, and films 🎥
 
 <!--
 **chen-dominic/chen-dominic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
