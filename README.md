@@ -1,5 +1,5 @@
 <h1 align="left">whats good my g</h1>
-<h2 align="justify">Hi! I am Dominic Chen and I am a first year student at Toronto Metropolitan University, formerly Ryerson University.</h3>
+<h5 align="justify">Hi! I am Dominic Chen and I am a first year student at Toronto Metropolitan University, formerly Ryerson University.</h5>
 
 
 <!--
