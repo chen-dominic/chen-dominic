@@ -1,6 +1,7 @@
-### Welcome! 👋
+<h1 align="left">whats good my g</h1>
+<h2 align="justify"><about me/><h2>
+<h3 align="justify">Hi! I am Dominic Chen and I am a first year student at Toronto Metropolitan University, formerly Ryerson University.>/h3>
 
-Hi! I am Dominic Chen and I am a first year student at Toronto Metropolitan University, formerly Ryerson University.
 
 <!--
 **chen-dominic/chen-dominic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
