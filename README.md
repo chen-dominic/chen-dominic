@@ -1,23 +1,18 @@
 <h1 align="left">whats good my g</h1>
 <h4 align="justify">Hi! 👋 I am Dominic Chen and I am a first year student at Toronto Metropolitan University 👨‍🎓, formerly Ryerson University. I have always enjoyed designing ✒️, and when I discovered coding 💻, it was like a match made in heaven! I am fascinated in the fields of front-end development, web development, ui/ux, and more 👨‍💻! I am also interested in machine learning 🤖, mobile development 📱, and game development 🎮!</h4>
 
-- I am currently learning HTML, CSS, JavaScript
-- Check out my art and photography [**website**](https://335493011.wixsite.com/dominicchen) (not fully updated)
-- Contact me at **dominic.chen630@gmail.com**
-- Click here to open a secret hidden [**treasure map**](https://github.com/chen-dominic/chen-dominic/blob/main/Dominic%20Resume%20Tech.pdf) 🗺️!
-- I enjoy playing games 🕹️, volleyball 🏐, and films 🎥
+- 🔭 I am currently working on: 
 
-<!--
-**chen-dominic/chen-dominic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - Creating my coding portfolio
+  - Personal projects
+  - Summer school courses 🥱 
 
-Here are some ideas to get you started:
+- 🌱 I am currently learning HTML, CSS, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📷 Check out my art and photography [**website**](https://335493011.wixsite.com/dominicchen) (not fully updated)
+
+- 📧 Contact me at **dominic.chen630@gmail.com**
+
+- 🗺️ Click here to open a secret hidden [**treasure map**](https://github.com/chen-dominic/chen-dominic/blob/main/Dominic%20Resume%20Tech.pdf)!
+
+- ⚡ I enjoy playing games 🕹️, volleyball 🏐, and films 🎥
