@@ -17,5 +17,7 @@
 - ⚡ I enjoy playing games 🕹️, volleyball 🏐, and films 🎥
 
 Find me on:
+
 [**linkedin**](https://www.linkedin.com/in/dominicchen1/)
+
 [**instagram**](https://www.instagram.com/dominicchen_/?hl=en)
