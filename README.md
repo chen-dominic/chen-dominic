@@ -8,16 +8,16 @@
 
 - 🌱 I am currently learning HTML, CSS, JavaScript
 
-- 📷 Check out my art and photography [**website**](https://335493011.wixsite.com/dominicchen target="_blank") (not updated)
+- 📷 Check out my art and photography [**website** target="_blank"](https://335493011.wixsite.com/dominicchen) (not updated)
 
 - 📧 Contact me at **dominic.chen630@gmail.com**
 
-- 🗺️ Click here to open a secret hidden [**treasure map**](https://github.com/chen-dominic/chen-dominic/blob/main/Dominic%20Resume%20Tech.pdf target="_blank")!
+- 🗺️ Click here to open a secret hidden [**treasure map**](https://github.com/chen-dominic/chen-dominic/blob/main/Dominic%20Resume%20Tech.pdf)!
 
 - ⚡ I enjoy playing games 🕹️, volleyball 🏐, and films 🎥
 
 Find me on:
 
-[**linkedin**](https://www.linkedin.com/in/dominicchen1/ target="_blank")
+[**linkedin**](https://www.linkedin.com/in/dominicchen1/)
 
-[**instagram**](https://www.instagram.com/dominicchen_/?hl=en target="_blank")
+[**instagram**](https://www.instagram.com/dominicchen_/?hl=en)
