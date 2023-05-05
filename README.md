@@ -8,7 +8,7 @@
 
 - 🌱 I am currently learning HTML, CSS, JavaScript
 
-- 📷 Check out my art and photography [**website** target="_blank"](https://335493011.wixsite.com/dominicchen) (not updated)
+- 📷 Check out my art and photography [**website**](https://335493011.wixsite.com/dominicchen) (not updated)
 
 - 📧 Contact me at **dominic.chen630@gmail.com**
 
