@@ -4,7 +4,6 @@
 - 🔭 I am currently working on: 
   - Creating my coding portfolio
   - Personal projects
-  - Summer school courses 🥱 
 
 - 🌱 I am currently learning HTML, CSS, JavaScript
 
