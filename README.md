@@ -10,7 +10,7 @@
 
 - 📧 Contact me at **dominic.chen630@gmail.com**
 
-- 🗺️ Click here to open a secret hidden [**treasure map**](https://github.com/chen-dominic/chen-dominic/blob/main/Dominic%20Tech%20Resume.pdf)!
+- 🗺️ Click here to open a secret hidden [**treasure map**](https://github.com/chen-dominic/chen-dominic.github.io/blob/main/img/Dominic%20Resume.pdf)!
 
 - ⚡ I enjoy playing games 🕹️, volleyball 🏐, and films 🎥
 
