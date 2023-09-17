@@ -3,8 +3,9 @@
 
 - 🔭 I am currently working on: 
   - Personal projects
+  - Keeping up with lectures 🥱
 
-- 🌱 I am currently learning varying frameworks
+- 🌱 I am currently learning various frameworks
 
 - 📷 Check out my online [**portfolio**](https://chen-dominic.github.io/)!
 
