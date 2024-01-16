@@ -16,10 +16,16 @@
 - ⚡ I enjoy playing games 🕹️, volleyball 🏐, and films 🎥
 
 <h3>Languages:</h3>
-* Python
-* Java
+
+- Python
+- Java
+- JavaScript
+- C
+- Lisp
+- Bash
 
 <h3>Frameworks & Libraries:</h3>
+
 * React
 * React Native
 * Bootstrap
