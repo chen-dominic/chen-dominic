@@ -19,7 +19,9 @@
 
 <h3>Frameworks & Libraries:</h3>
 - React
+
 - React Native
+- Bootstrap
 - TailwindCSS
 
 Find me on:
