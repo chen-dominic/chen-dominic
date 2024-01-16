@@ -16,12 +16,15 @@
 - ⚡ I enjoy playing games 🕹️, volleyball 🏐, and films 🎥
 
 <h3>Languages:</h3>
+* Python
+* Java
 
 <h3>Frameworks & Libraries:</h3>
-- React
-- React Native
-- Bootstrap
-- TailwindCSS
+* React
+* React Native
+* Bootstrap
+* TailwindCSS
+* JQuery
 
 Find me on:
 
