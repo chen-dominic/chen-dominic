@@ -15,6 +15,13 @@
 
 - ⚡ I enjoy playing games 🕹️, volleyball 🏐, and films 🎥
 
+<h3>Languages:</h3>
+
+<h3>Frameworks & Libraries:</h3>
+- React
+- React Native
+- TailwindCSS
+
 Find me on:
 
 [**linkedin**](https://www.linkedin.com/in/dominicchen1/)
