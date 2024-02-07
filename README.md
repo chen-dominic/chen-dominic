@@ -28,10 +28,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=chen-dominic&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-Find me on:
-
-[**linkedin**](https://www.linkedin.com/in/dominicchen1/)
-
-[**instagram**](https://www.instagram.com/dominicchen_/?hl=en)
