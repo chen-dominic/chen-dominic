@@ -12,9 +12,13 @@
 - 📷 Check out my online [**portfolio**](https://chen-dominic.github.io/)!
 
 📧 Contact me at **dominic.chen630@gmail.com**
+
 <br>
+
 🗺️ Click here to open a secret hidden [**treasure map**](https://chen-dominic.github.io/img/Dominic%20Tech%20Resume.pdf)!
+
 <br>
+
 ⚡ I enjoy playing games 🕹️, volleyball 🏐, and films 🎥
 
 ## 🌐 Socials:
