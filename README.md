@@ -21,7 +21,7 @@
 
 <br>
 
-🗺️ Click here to open a secret hidden [**treasure map**](https://chen-dominic.github.io/img/Dominic%20Tech%20Resume.pdf)!
+🗺️ Click here to open a secret hidden [**treasure map**](https://chen-dominic.github.io/img/Dominic%20Chen's%20Resume.pdf)!
 
 <br>
 
