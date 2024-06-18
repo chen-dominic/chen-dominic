@@ -5,7 +5,7 @@
 🔭 I am currently working on:
   - Personal projects
   - Keeping up with lectures 🥱
-  - Seeking Summer 2024 internships!
+  - Seeking Fall 2024 internships!
 
 <br>
 
