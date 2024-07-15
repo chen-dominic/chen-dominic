@@ -3,9 +3,7 @@
 
 # 💫 About Me:
 🔭 I am currently working on:
-  - Personal projects
-  - Keeping up with lectures 🥱
-  - Seeking Fall 2024 internships!
+  - Working as a Software Developer for FGF Brands!
 
 <br>
 
