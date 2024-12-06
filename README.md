@@ -1,5 +1,5 @@
 <h1 align="left">whats good my g 😎</h1>
-<h4 align="justify">Hi! 👋 I am Dominic Chen and I am a Computer Science student based in Toronti. My main skills lie in Full Stack Development 👨‍💻! But I am also interested in machine learning 🤖, and game development 🎮!</h4>
+<h4 align="justify">Hi! 👋 I am Dominic Chen and I am a Computer Science student based in Toronto. My main skills lie in Full Stack Development 👨‍💻! But I am also interested in machine learning 🤖, and game development 🎮!</h4>
 
 # 💫 About Me:
 🔭 I am currently working on:
