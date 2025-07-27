@@ -11,7 +11,7 @@
 
 <br>
 
-👨‍💻 Check out my online [**portfolio**](https://chen-dominic.github.io/)!
+👨‍💻 Check out my online [**portfolio**](https://www.dominichen.com/)!
 
 <br>
 
