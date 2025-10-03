@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 🔭 I am currently working on:
-  - Working as a Software Developer for FGF Brands!
+  - Working as a Software Developer for Dayforce!
 
 <br>
 
